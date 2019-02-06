@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Randomness</title>
+    <title> Randomness </title>
   </head>  
   
   <body>
@@ -13,5 +13,4 @@
     <h5>Isab</h5>
     <h6>Isa</h6>
     <h7>Is</h7>
-    <h8>I</h8>
 </html>   
