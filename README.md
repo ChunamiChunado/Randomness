@@ -16,6 +16,6 @@
     <p>And Grandma Cheesey Chez?</p>
     <p>Yup.</p>
     <p>Who is this person?</p>
-    <p>Her name is Isabella Chu.</p>
+    <p>Her name is Isabella.</p>
     <h3>THE END</h3>
 </html>   
