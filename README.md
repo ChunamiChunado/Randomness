@@ -4,5 +4,5 @@
   </head>  
   <body>
     <h1>HELLO,</h1>
-  <img src="Gary Larson Snake Eating Ducks.jpg">
+<img src="Gary Larson Snake Eating Ducks.jpg">
 </html>   
