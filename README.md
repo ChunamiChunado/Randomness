@@ -8,8 +8,6 @@
     <img src="Gary Larson Snake Eating Ducks.jpg">
     <h3>For Dougnuts!</h3>
     <img src="Donut Gif.gif">
-    <h4>Here is a game for you to play...</h4>
-    <p>This is currently under construction</p>
-    <video src="Coconut Song.htm" controls></video>
+    <video src="Coconut Song.htm" controls poster="earth-video-screenshot.jpg"></video>
   </body>
 </html>
