@@ -8,6 +8,6 @@
     <img src="Gary Larson Snake Eating Ducks.jpg">
     <h3>For Dougnuts!</h3>
     <img src="Donut Gif.gif">
-    <button>Click me</button>
   </body>
+  <button>Click me</button>
 </html>
